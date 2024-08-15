@@ -8,7 +8,7 @@
 
 > Deployment Site @ https://davidsonity-netflix-recommendation-app-gopbme.streamlit.app/
 >
-> View Notebook @ https://github.com/Davidsonity/Netflix-Recommendation-System/blob/main/NoteBook/Netflix_Recommendation_Engine.ipynb
+> View Notebook @ https://github.com/Karanbhuchhda/Netflix-Recommendation-System/blob/main/NoteBook/Netflix_Recommendation_Engine.ipynb
 
 ### INTRODUCTION
 The content-based recommender system is highly based on the similarity calculation among items. The similarity or closeness of items is measured based on the similarity in the content or features of those items. The important features used in this project are:
@@ -35,5 +35,3 @@ Data Source: https://www.kaggle.com/datasets/shivamb/netflix-shows
 - Build the Recommender System
 - Build the app using Streamlit
 
-### Website 
-https://davidsonity-netflix-recommendation-app-gopbme.streamlit.app/
